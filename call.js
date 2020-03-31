@@ -28,5 +28,9 @@ const options = {
 fetch("https://enr0tl9a5l769.x.pipedream.net/", options)
 
 function prank(){
+    if (code == "tgif"){
+    window.location.replace('https://www.youtube.com/watch?v=kfVsfOSbJY0')
+    } else{
     window.location.replace('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
+    }
 }
