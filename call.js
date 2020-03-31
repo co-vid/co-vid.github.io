@@ -32,8 +32,10 @@ function prank(){
     window.location.replace('https://www.youtube.com/watch?v=kfVsfOSbJY0')
     } else if(code == "atebit"){
       window.location.replace('https://www.youtube.com/watch?v=9NcPvmk4vfo')
+    } else if(code == "cri"){
+      window.location.replace('https://www.youtube.com/watch?v=GHMjD0Lp5DY ')
     } else{
       window.location.replace('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
     }
 }
-//
+//https://www.youtube.com/watch?v=GHMjD0Lp5DY 
